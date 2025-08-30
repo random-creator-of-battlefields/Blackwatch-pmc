@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Kuge\Prototype\BlackWatch\Heads/PMC_Head_2"
+	"$bumpmap"    "Kuge\Prototype\BlackWatch\Heads/PMC_Head_2_nml"
+	"$phongexponenttexture"     "Kuge\Prototype\BlackWatch\Heads/pmc_head_mask"
+
+	"$compress" "Kuge\Prototype\BlackWatch\Heads/PMC_Head_2"
+	"$bumpcompress" "Kuge\Prototype\BlackWatch\Heads/PMC_Head_2_nml"
+	"$stretch" "Kuge\Prototype\BlackWatch\Heads/PMC_Head_2"
+	"$bumpstretch" "Kuge\Prototype\BlackWatch\Heads/PMC_Head_2_nml"
+
+	"$lightWarptexture" "Kuge\Prototype\BlackWatch\Heads/Base_M_Caucasian_Wrp"
+
+	"$phong" "1"
+	"$phongboost" "0.45"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[0.3 0.5 24]"
+	"$phongalbedotint" "0"
+	"$phongdisablehalflambert" "1"
+	"$normalmapalphaphongmask" "1"
+
+	"$rimlight" "0"
+
+	"$model" "1"
+	"$halflambert" "0"
+	"$nodecal" "1"
+	"$ambientocclusion" "1"
+	"$mocull" "0"
+	"$surfaceprop" "flesh"
+//	"$blendtintbybasealpha" "1"
+//	"$color2" "{ 200 200 200 }"
+	"$cloakPassEnabled" "1"
+//	"$cloakColorTint" "[0.4 0.5 1]"
+//	"$cloakColorTint" "[1 0.5 0.4]"
+}
